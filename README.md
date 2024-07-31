@@ -1,5 +1,12 @@
 # Data_Science_Project_Loans_Default_Prediction
 
+
+This is an Academic project Postgraduate in Data Science made in collaboration with my colleagues below:
+
+- https://github.com/Przon | [Fernando Reis]
+- https://github.com/lfbr0 | [Luis Ribeiro]
+- https://github.com/renato747 | [Renato Morais]
+
 This is a Data Science Pos Degree Project.
 
 ## Project Context
